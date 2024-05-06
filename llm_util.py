@@ -9,7 +9,7 @@ from langchain_community.callbacks import get_openai_callback
 
 import langchain
 langchain.verbose = False
-
+OPENAI_API_KEY = ${{ secrets.API_KEY }}
 os.environ['OPENAI_API_KEY'] = OPENAI_API_KEY
 
 class LLM:
