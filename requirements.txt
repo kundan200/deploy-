@@ -50,7 +50,7 @@ ppft==1.7.6.8
 PyAudio==0.2.14
 pycparser==2.22
 pydantic==1.8.2
-pydantic-core==1.8.2
+pydantic-core==2.16.3
 PyExecJS==1.5.1
 PyPDF2==1.26.0
 pypiwin32==223
