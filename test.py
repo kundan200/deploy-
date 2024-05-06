@@ -10,7 +10,7 @@ from langchain_openai import ChatOpenAI
 from langchain.memory import ConversationBufferMemory
 from langchain.chains import ConversationalRetrievalChain
 
-
+OPENAI_API_KEY = ${{ secrets.API_KEY }}
 os.environ['OPENAI_API_KEY'] = OPENAI_API_KEY
 
 
