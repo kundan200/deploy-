@@ -19,4 +19,3 @@ translate==3.6.1
 translators==5.9.0
 speake3
 PyAudio
-libespeak.so.1
