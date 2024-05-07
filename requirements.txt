@@ -50,7 +50,7 @@ packaging==23.2
 pathos==0.3.2
 pox==0.3.4
 ppft==1.7.6.8
-PyAudio==0.2.14
+PyAudio==0.2.11
 pycparser==2.22
 pydantic==2.6.4
 pydantic_core==2.16.3
