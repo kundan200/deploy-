@@ -18,5 +18,4 @@ SpeechRecognition==3.10.3
 translate==3.6.1
 translators==5.9.0
 speake3
-portaudio.h
-PyAudio
+PyAudio==0.2.14
